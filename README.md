@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Node, Express**
 
-- 📫 How to reach me **bimoagung@gmail.com**
+- 📫 How to reach me **bimoagung2548@gmail.com**
 
 - ⚡ Fun fact **I'm Once**
 
