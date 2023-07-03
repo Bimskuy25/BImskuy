@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bimo Agung Fahrizky</h1>
 <h3 align="center">Enjoy to Learn Front-End</h3>
 
-- 🌱 I’m currently learning **React, NodeJS **
+- 🌱 I’m currently learning ** React, NodeJS **
 
 - 📫 How to reach me **bimoagung2548@gmail.com**
 
